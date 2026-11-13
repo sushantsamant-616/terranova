@@ -1,0 +1,16 @@
+[
+  {"_id":"api_key","value":"tn_live_79e0a31b0b05f734"},
+  {"_id":"battery_low","value":"70"},
+  {"_id":"cost_per_kl","value":"4.5"},
+  {"_id":"crit_th","value":"42"},
+  {"_id":"drip_factor","value":"0.1"},
+  {"_id":"estate_name","value":"Sitapur Estate"},
+  {"_id":"jwt_secret","value":"c57ce8ab12771cd70d09511751cbb56884fc4b490e3284bfcac923e1941121ae"},
+  {"_id":"lat","value":"27.57"},
+  {"_id":"lon","value":"80.68"},
+  {"_id":"offline_min","value":"30"},
+  {"_id":"rain_skip_mm","value":"8"},
+  {"_id":"simulator","value":"1"},
+  {"_id":"target_moisture","value":"80"},
+  {"_id":"watch_th","value":"62"}
+]

@@ -1,0 +1,4 @@
+[
+  {"login_email":"admin@terranova.farm","password_hash":"$2a$10$Ez5Tpbu0GYL1VA49lKQg5OeKZaMWvQ8Yaqf8xaiuxA8aebKxWIss.","role":"admin","name":"Kiran Sable","title":"Estate Manager","contact_email":"kiran.sable@terranova.farm","phone":"+91 98765 43210","estate":"Sitapur Estate","since":"Mar 2025","pref_email":true,"pref_sms":false,"pref_push":true,"token_version":0,"_id":1},
+  {"login_email":"farmer@terranova.farm","password_hash":"$2a$10$cgw0IjGBIgFK/b9GGQUOH.FvO7E34FP47d3lS/1hGA1qNOrqZlnOu","role":"user","name":"Ramesh Patil","title":"Farmer","contact_email":"farmer@terranova.farm","phone":"+91 98765 00000","estate":"Sitapur Estate","since":"Mar 2025","pref_email":true,"pref_sms":false,"pref_push":true,"token_version":0,"_id":2}
+]

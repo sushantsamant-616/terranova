@@ -1,0 +1,7 @@
+[
+  {"_id":"alerts","seq":6},
+  {"_id":"audit","seq":16},
+  {"_id":"irrigation","seq":25},
+  {"_id":"readings","seq":489},
+  {"_id":"users","seq":2}
+]

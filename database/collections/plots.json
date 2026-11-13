@@ -1,0 +1,11 @@
+[
+  {"_id":"A1","name":"Block A-1","area":4.2,"crop":"CP 72-2086","age":14,"ndvi":0.81,"moisture":72,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":0},
+  {"_id":"A2","name":"Block A-2","area":3.8,"crop":"RB 867515","age":11,"ndvi":0.67,"moisture":48,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":1},
+  {"_id":"A3","name":"Block A-3","area":5.1,"crop":"CP 72-2086","age":8,"ndvi":0.84,"moisture":75,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":2},
+  {"_id":"B1","name":"Block B-1","area":6,"crop":"SP 81-3250","age":18,"ndvi":0.74,"moisture":60,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":3},
+  {"_id":"B2","name":"Block B-2","area":4.5,"crop":"RB 867515","age":6,"ndvi":0.55,"moisture":38,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":4},
+  {"_id":"B3","name":"Block B-3","area":3.2,"crop":"CP 72-2086","age":22,"ndvi":0.89,"moisture":80,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":5},
+  {"_id":"C1","name":"Block C-1","area":5.5,"crop":"SP 81-3250","age":10,"ndvi":0.71,"moisture":58,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":6},
+  {"_id":"C2","name":"Block C-2","area":4.8,"crop":"CP 72-2086","age":16,"ndvi":0.86,"moisture":76,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":7},
+  {"_id":"C3","name":"Block C-3","area":3.9,"crop":"RB 867515","age":9,"ndvi":0.62,"moisture":44,"moisture_at":{"$date":"2026-11-08T18:09:04.255Z"},"pos":8}
+]

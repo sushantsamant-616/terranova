@@ -1,0 +1,7 @@
+[
+  {"_id":"SNS-01","plot_id":"A1","depth":"30cm","firmware":"2.3.0","signal":"strong","battery":91,"last_seen":{"$date":"2026-11-08T18:12:04.255Z"},"moisture":72,"temp":28.1,"ec":1.24,"ph":6.8,"pos":0},
+  {"_id":"SNS-02","plot_id":"A2","depth":"30cm","firmware":"2.3.0","signal":"strong","battery":74,"last_seen":{"$date":"2026-11-08T18:11:04.255Z"},"moisture":48,"temp":29.4,"ec":1.87,"ph":6.4,"pos":1},
+  {"_id":"SNS-03","plot_id":"B1","depth":"45cm","firmware":"2.2.4","signal":"good","battery":88,"last_seen":{"$date":"2026-11-08T18:12:04.255Z"},"moisture":60,"temp":27.9,"ec":1.41,"ph":7,"pos":2},
+  {"_id":"SNS-04","plot_id":"B2","depth":"30cm","firmware":"2.2.4","signal":"fair","battery":62,"last_seen":{"$date":"2026-11-08T18:08:04.255Z"},"moisture":38,"temp":30.2,"ec":2.1,"ph":6.1,"pos":3},
+  {"_id":"SNS-05","plot_id":"C1","depth":"60cm","firmware":"2.3.0","signal":"strong","battery":95,"last_seen":{"$date":"2026-11-08T18:13:04.255Z"},"moisture":58,"temp":28.6,"ec":1.33,"ph":6.9,"pos":4}
+]

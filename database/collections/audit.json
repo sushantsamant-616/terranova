@@ -1,0 +1,18 @@
+[
+  {"ts":{"$date":"2026-10-26T16:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"auth.login","detail":"","_id":1},
+  {"ts":{"$date":"2026-10-27T15:14:04.255Z"},"user_id":2,"user_name":"Ramesh Patil","action":"auth.login","detail":"","_id":2},
+  {"ts":{"$date":"2026-10-27T17:14:04.255Z"},"user_id":2,"user_name":"Ramesh Patil","action":"alert.acknowledge","detail":"Block C-3 moisture 61% is below the watch level (62%)","_id":3},
+  {"ts":{"$date":"2026-10-28T13:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"settings.update","detail":"cost_per_kl=4.5, drip_factor=0.1","_id":4},
+  {"ts":{"$date":"2026-10-29T14:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"team.invite","detail":"Suresh More <suresh.more@terranova.farm> as Field Technician (user)","_id":5},
+  {"ts":{"$date":"2026-10-30T17:14:04.255Z"},"user_id":null,"user_name":"system","action":"irrigation.complete","detail":"Event on B2 finished (simulated)","_id":6},
+  {"ts":{"$date":"2026-10-30T17:44:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"irrigation.schedule","detail":"Block B-2: 22mm irrigation","_id":7},
+  {"ts":{"$date":"2026-10-31T12:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"thresholds.update","detail":"critical 42%, watch 62%","_id":8},
+  {"ts":{"$date":"2026-11-01T16:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"plot.update","detail":"Block A-3","_id":9},
+  {"ts":{"$date":"2026-11-02T15:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"recommendation.schedule","detail":"Block A-2: irrigate 18 mm","_id":10},
+  {"ts":{"$date":"2026-11-03T14:14:04.255Z"},"user_id":2,"user_name":"Ramesh Patil","action":"reading.manual","detail":"Block C-2: 76%","_id":11},
+  {"ts":{"$date":"2026-11-04T17:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"sensor.update","detail":"SNS-03 -> B1","_id":12},
+  {"ts":{"$date":"2026-11-05T13:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"irrigation.start","detail":"Event on A2 started","_id":13},
+  {"ts":{"$date":"2026-11-06T16:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"recommendation.dismiss","detail":"B1-hold","_id":14},
+  {"ts":{"$date":"2026-11-07T12:14:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"auth.login","detail":"","_id":15},
+  {"ts":{"$date":"2026-11-08T13:26:04.255Z"},"user_id":1,"user_name":"Kiran Sable","action":"auth.login","detail":"","_id":16}
+]
